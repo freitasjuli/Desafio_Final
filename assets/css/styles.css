@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    
+    margin: 50px auto;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3, h4, h5  {
+    color: #462b1c; 
+}
+
+
+h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+.profile-image {
+    width: 300px;
+    height: 230px;
+    border-radius: 100%; 
+    float: right; 
+    margin-right: 80px; 
+}
+
+h6 {
+    color: orange;
+}
+
+
+.divider {
+    border-right: 1px solid #dee2e6; 
+    height: 100%; 
+  }
+
+#portafolio {
+    padding-left: 10px;
+    border-bottom: 1px solid #ccc;
+}
